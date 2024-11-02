@@ -1,0 +1,1 @@
+Library beautifulsoup --> web scrapping (mengambil data dari halaman website, berdasarkan tagging)
